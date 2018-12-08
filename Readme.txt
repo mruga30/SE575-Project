@@ -4,9 +4,9 @@ The softwares that we used to build the project are:
 1. Eclipse Jee
 2. Mysql 
 3. Sqlyog 
-The languages we used are JavaScript for the front-end and Java for backend.
+The languages we used are HTML, JavaScript, Bootstrap for the front-end and Java for backend.
 
-The project folder ìNotificationî contains all the libraries to build the project. 
+The project folder ‚ÄúNotification‚Äù contains all the libraries to build the project. 
 To run the project, only database creation is required.
 
 We built it in Eclipse Jee, where we opened the folder "Notification" and run it on the Apache Tomcat Server.
